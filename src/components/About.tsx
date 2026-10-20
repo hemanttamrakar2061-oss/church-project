@@ -9,7 +9,7 @@ const About = () => {
           <div className="absolute -left-4 -top-4 h-32 w-32 rounded-tl-[3rem] border-l-4 border-t-4 border-sky-300 sm:-left-6 sm:-top-6" />
 
           <img
-            src="/src/assets/photo4.png"
+            src="/src/assets/photo6.png"
             alt="Everest Gospel Church worship and fellowship"
             className="relative z-10 h-[320px] w-full rounded-2xl object-cover shadow-xl sm:h-[420px]"
           />
